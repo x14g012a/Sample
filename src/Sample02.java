@@ -5,6 +5,9 @@ public class Sample02 {
 		// Gitテスト
 		// GitTest2
 		System.out.println("ああああ");
+
+		//aaaaaaaaaa
+
 	}
 
 }
