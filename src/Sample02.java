@@ -7,7 +7,7 @@ public class Sample02 {
 		System.out.println("ああああ");
 
 		//aaaaaaaaaa
-
+		//b
 	}
 
 }
